@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**chiaracont/chiaracont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Anthropologist with experience in HR Management, currently specializing in Data Analytics to merge my expertise and apply it to impactful projects.
 
-Here are some ideas to get you started:
+## 🕵️‍♀️ About me:
 
 🔭 I’m currently working on: Building my data portfolio and mastering visualization tools.
 
@@ -20,4 +19,43 @@ Here are some ideas to get you started:
 😄 Pronouns: She/Her
 
 ⚡ Fun fact: I’m transitioning from traditional, analog field research to the world of digital data analytics.
+
+
+## 🛠️ Technical Skills
+
+**Lenguages:** Python, SQL (In progress) 
+**Analitycs:** Google Sheets, Excel    
+**Otros:** Git, GitHub, VS Code
+
+
+## 📚 Currently Learning
+
+🐍 Python for Data Analysis: Mastering libraries like Pandas and NumPy for data manipulation.
+
+🗃️ SQL & Relational Databases: Querying and managing structured data efficiently.
+
+📊 Data Visualization with Tableau: Transforming raw data into impactful visual stories.
+
+🤖 Intro to Machine Learning: Exploring predictive modeling and basic algorithms.
+
+
+## 🚀 Key projects
+
+(Working on...)
+
+
+## 📫 Let's connect!
+
+- **LinkedIn:** 
+- **Email:** ccmariani47@gmail.com
+- **GitHub:** Here you are 😊
+
+
+- 
+<!--
+**chiaracont/chiaracont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 -->
