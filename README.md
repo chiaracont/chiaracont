@@ -2,6 +2,8 @@
 
 I am an Anthropologist with experience in HR Management, currently specializing in Data Analytics to merge my expertise and apply it to impactful projects.
 
+
+
 ## 🕵️‍♀️ About me:
 
 🔭 I’m currently working on: Building my data portfolio and mastering visualization tools.
@@ -21,11 +23,15 @@ I am an Anthropologist with experience in HR Management, currently specializing 
 ⚡ Fun fact: I’m transitioning from traditional, analog field research to the world of digital data analytics.
 
 
+
+
 ## 🛠️ Technical Skills
 
 **Lenguages:** Python, SQL (In progress) 
 **Analitycs:** Google Sheets, Excel    
 **Otros:** Git, GitHub, VS Code
+
+
 
 
 ## 📚 Currently Learning
@@ -39,9 +45,13 @@ I am an Anthropologist with experience in HR Management, currently specializing 
 🤖 Intro to Machine Learning: Exploring predictive modeling and basic algorithms.
 
 
+
+
 ## 🚀 Key projects
 
 (Working on...)
+
+
 
 
 ## 📫 Let's connect!
@@ -51,7 +61,7 @@ I am an Anthropologist with experience in HR Management, currently specializing 
 - **GitHub:** Here you are 😊
 
 
-- 
+
 <!--
 **chiaracont/chiaracont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
